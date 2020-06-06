@@ -1,6 +1,5 @@
 # Login and Google Maps Location
-
-<img src=''>
+<img src='src/assets/1.jpg' style='max-width=100%;' width='250'><img src='src/assets/5.jpg' style='max-width=100%;' width='250'><img src='src/assets/6.jpg' style='max-width=100%;' width='250'><img src='src/assets/2.jpg' style='max-width=100%;' width='250'><img src='src/assets/3.jpg' style='max-width=100%;' width='250'><img src='src/assets/4.jpg' style='max-width=100%;' width='250'>
 
 1. Download or clone this repo.
    Note: Install Node v12.9
