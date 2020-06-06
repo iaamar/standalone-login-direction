@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Login-Native-Direction",
+    "slug": "Login-Native-Direction",
+    "description": "Direction app using Firebase, Google APi's and React Native",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.iaamarn.logindirections"
+    }
+  }
+}

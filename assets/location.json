@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Pune",
+    "address": "Pune, India",
+    "coords": {
+      "latitude": 18.516726,
+      "longitude": 73.856255
+    }
+  },
+  {
+    "name": "Banglore",
+    "address": "Banglore,India",
+    "coords": {
+      "latitude": 12.972442,
+      "longitude": 77.580643
+    }
+  },
+  {
+    "name": "Cheenai",
+    "address": "Cheenai,India",
+    "coords": {
+      "latitude": 13.097637,
+      "longitude": 80.274271
+    }
+  },
+  {
+    "name": "Delhi",
+    "address": "Delhi,India",
+    "coords": {
+      "latitude": 28.656971,
+      "longitude": 77.23222
+    }
+  },
+  {
+    "name": "Calafornia",
+    "address": "CA,USA",
+    "coords": {
+      "latitude": 36.533774,
+      "longitude": -119.44899
+    }
+  }
+]
