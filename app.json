@@ -4,7 +4,7 @@
     "slug": "Login-Native-Direction",
     "description": "Direction app using Firebase, Google APi's and React Native",
     "privacy": "public",
-    "sdkVersion": "35.0.0",
+    "sdkVersion": "25.0.0",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
